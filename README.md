@@ -7,9 +7,9 @@
 
 - 🎓 CS major at KIIT University, India
   <br>
-- 👩🏻‍💻 Machine Learning & Front-End Development
+- 👩🏻‍💻 Full Stack Java Developer
   <br>
-- 🌱 Currently diving into Deep Learning & LLMs
+- 🌱 Currently building Bloom & Bridge
   <br>
 - 💟 I like to dance and design stuff
 
